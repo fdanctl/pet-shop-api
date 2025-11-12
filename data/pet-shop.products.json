@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "6914bb0305818e843ff19295"
+  },
+  "name": "Ração Premium para Cão Adulto",
+  "description": "Ração completa e equilibrada para cães adultos de todas as raças. Rica em proteínas e sem corantes artificiais.",
+  "images": [
+    "https://example.com/images/racao-cao-premium-1.jpg",
+    "https://example.com/images/racao-cao-premium-2.jpg"
+  ],
+  "animal": "dog",
+  "category": "food",
+  "price": 2599,
+  "stock": 120,
+  "rating": 4.7,
+  "evaluations": 248
+},
+{
+  "_id": {
+    "$oid": "6914bb0305818e843ff19296"
+  },
+  "name": "Brinquedo Interativo para Gato",
+  "description": "Brinquedo com penas e movimento automático para estimular o instinto de caça do gato.",
+  "images": [
+    "https://example.com/images/brinquedo-gato-1.jpg",
+    "https://example.com/images/brinquedo-gato-2.jpg"
+  ],
+  "animal": "cat",
+  "category": "toys",
+  "price": 1399,
+  "stock": 75,
+  "rating": 4.5,
+  "evaluations": 132
+},
+{
+  "_id": {
+    "$oid": "6914bb0305818e843ff19297"
+  },
+  "name": "Aquário de Vidro 60L com Filtro",
+  "description": "Aquário resistente com filtro e iluminação LED incluída. Ideal para peixes tropicais.",
+  "images": [
+    "https://example.com/images/aquario-vidro-1.jpg",
+    "https://example.com/images/aquario-vidro-2.jpg"
+  ],
+  "animal": "fish",
+  "category": "housing",
+  "price": 8999,
+  "stock": 30,
+  "rating": 4.8,
+  "evaluations": 87
+},
+{
+  "_id": {
+    "$oid": "6914bb0305818e843ff19298"
+  },
+  "name": "Casaco Impermeável para Cão",
+  "description": "Casaco leve e impermeável, perfeito para passeios em dias de chuva. Ajustável e confortável.",
+  "images": [
+    "https://example.com/images/casaco-cao-1.jpg",
+    "https://example.com/images/casaco-cao-2.jpg"
+  ],
+  "animal": "dog",
+  "category": "apparel",
+  "price": 2499,
+  "stock": 50,
+  "rating": 4.6,
+  "evaluations": 64
+},
+{
+  "_id": {
+    "$oid": "6914bb0305818e843ff19299"
+  },
+  "name": "Areia Aglomerante Natural para Gatos",
+  "description": "Areia 100% natural, com excelente controlo de odores e fácil limpeza.",
+  "images": [
+    "https://example.com/images/areia-gato-1.jpg",
+    "https://example.com/images/areia-gato-2.jpg"
+  ],
+  "animal": "cat",
+  "category": "litter",
+  "price": 1099,
+  "stock": 200,
+  "rating": 4.9,
+  "evaluations": 512
+},
+{
+  "_id": {
+    "$oid": "6914bb0305818e843ff1929a"
+  },
+  "name": "Transportadora de Viagem para Pássaros",
+  "description": "Transportadora ventilada e resistente, ideal para viagens curtas ou visitas ao veterinário.",
+  "images": [
+    "https://example.com/images/transportadora-passaro-1.jpg",
+    "https://example.com/images/transportadora-passaro-2.jpg"
+  ],
+  "animal": "bird",
+  "category": "travel",
+  "price": 3299,
+  "stock": 40,
+  "rating": 4.4,
+  "evaluations": 23
+},
+{
+  "_id": {
+    "$oid": "6914bb0305818e843ff1929b"
+  },
+  "name": "Terrário em Vidro para Répteis",
+  "description": "Terrário com ventilação lateral e tampa removível. Ideal para pequenas espécies de répteis.",
+  "images": [
+    "https://example.com/images/terrario-reptil-1.jpg",
+    "https://example.com/images/terrario-reptil-2.jpg"
+  ],
+  "animal": "reptile",
+  "category": "housing",
+  "price": 7499,
+  "stock": 25,
+  "rating": 4.7,
+  "evaluations": 41
+},
+{
+  "_id": {
+    "$oid": "6914bb0305818e843ff1929c"
+  },
+  "name": "Roda de Exercício para Hamsters",
+  "description": "Roda silenciosa e segura, feita em plástico resistente. Ajuda o hamster a manter-se ativo e saudável.",
+  "images": [
+    "https://example.com/images/roda-hamster-1.jpg"
+  ],
+  "animal": "hamsters",
+  "category": "toys",
+  "price": 899,
+  "stock": 150,
+  "rating": 4.8,
+  "evaluations": 78
+}]
