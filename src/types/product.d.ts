@@ -4,9 +4,10 @@ type ProductCategories =
   | "grooming"
   | "housing"
   | "apparel"
+  | "accessories"
   | "travel"
   | "litter";
-type Animals = "dog" | "cat" | "fish" | "bird" | "reptile" | "hamsters";
+type Animals = "dog" | "cat" | "fish" | "bird" | "reptile" | "hamsters" | "rabbit";
 
 export interface Product {
   name: string;
