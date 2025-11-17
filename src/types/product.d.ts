@@ -1,7 +1,7 @@
 type ProductCategories =
   | "food"
   | "toys"
-  | "grooming"
+  | "hygiene"
   | "housing"
   | "apparel"
   | "accessories"

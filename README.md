@@ -154,3 +154,5 @@ Retorna os detalhes de uma encomenda específica.
 ## Notas Importantes
 
 1. **Preços:** Todos os preços são armazenados em cêntimos (ex: 2999 = 29,99€)
+2. **Animals:** dog, cat, fish, bird, reptile, hamsters, rabbit
+3. **Categories:** food, toys, hygiene, housing, apparel, accessories, travel, litter
